@@ -1,5 +1,5 @@
 Sales Enthusiast | Photographer | Python Coder | Web Developer
-About Me
+About Me 
 Name: Kgaogelo Namane
 Email: kinechnotick@gmail.com 📧 
 Cellphone: +27798123456 📱
