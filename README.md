@@ -36,6 +36,7 @@ Project Management
 Business Development
 Technology Integration
 Leadership and Team Building
+
 🌱 Interests & Hobbies:
 
 Exploring emerging technologies
