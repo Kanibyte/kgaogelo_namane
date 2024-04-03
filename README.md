@@ -11,7 +11,7 @@
 🐦 Twitter: [Twitter Profile URL]
 💼 Professional Experience:
 
-Founder & CEO: [Company Name] (Year - Present)
+Founder & CEO: Kgaogelo Namane Images (Year - Present)
 Lead a team in developing innovative solutions to [brief description of the company's focus].
 Project Manager: [Company/Organization Name] (Year - Year)
 Successfully managed [brief description of projects managed].
