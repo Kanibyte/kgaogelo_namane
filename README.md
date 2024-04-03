@@ -19,13 +19,17 @@
 💼 Professional Experience:
 
 Founder & CEO: Kgaogelo Namane Images (Year - Present)
+
 Lead a team in developing innovative solutions to [brief description of the company's focus].
+
 Project Manager: [Company/Organization Name] (Year - Year)
+
 Successfully managed [brief description of projects managed].
 
 🎓 Education:
 
-[Degree Name] in [Field of Study]: [University Name], [Year of Graduation]
+Grade 12 (Matric): Athlone Boy's High School, 2015
+
 [Additional information or achievements related to education]
 
 💡 Areas of Expertise:
@@ -40,8 +44,11 @@ Leadership and Team Building
 🌱 Interests & Hobbies:
 
 Exploring emerging technologies
+
 Networking and connecting with like-minded individuals
+
 Mentoring aspiring entrepreneurs
+
 [Additional hobbies or interests]
 
 📫 Let's Connect & Collaborate:
